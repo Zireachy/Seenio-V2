@@ -1,2 +1,9 @@
-# Seenio-V2
-A Roblox script for Spider (by roy stanford)
+# Seenio!
+Beat players and beat the spider as you have an **unfair advantage** towards ***EVERYONE!***
+## Usage
+You can seenio under here
+```lua
+https://raw.githubusercontent.com/Zireachy/Seenio-V2/refs/heads/main/RunSeenioSafe.lua
+```
+## Credits
+- Developer: Zireachy
