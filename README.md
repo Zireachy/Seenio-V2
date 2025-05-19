@@ -3,7 +3,7 @@ Beat players and beat the spider as you have an **unfair advantage** towards ***
 ## Usage
 You can use Seenio under here
 ```lua
-https://raw.githubusercontent.com/Zireachy/Seenio-V2/refs/heads/main/RunSeenioSafe.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zireachy/Seenio-V2/refs/heads/main/RunSeenioSafe.lua",true))()
 ```
 ## Credits
 - Developer: Zireachy
